@@ -86,23 +86,6 @@ Explore Insights
 Export Cleaned Dataset
 ```
 
-## Screenshots
-
-### Dashboard
-
-![Dashboard](screenshots/dashboard.png)
-
-### Data Analysis
-
-![Data Analysis](screenshots/analysis.png)
-
-### Cleaning Activity
-
-![Cleaning](screenshots/cleaning.png)
-
-### Dataset Upload
-
-![Upload](screenshots/upload.png)
 
 ## Tech Stack
 
